@@ -1,3 +1,3 @@
-let a: boolean;
+let d: boolean;
 a = true;
 console.log(a);
